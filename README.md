@@ -3,9 +3,9 @@
 VGTAx/VGTAx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cabin&weight=500&size=25&duration=3000&pause=10&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%9D%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2+%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB" alt="Typing SVG" /></a></h1>
-<h3 align="center"></h3>
-<a href="https://git.io/typing-svg"></a>
+<h4 font-weight="none"><a href="https://git.io/typing-svg"></a>
 Добро пожаловать на мой GitHub профиль! Здесь я делюсь своими проектами, которые я создал, используя такие технологии, как C#, ASP.NET, HTML, CSS и JS.
 
 Мой профиль содержит репозитории с различными проектами, которые я создавал, чтобы показать свои навыки в разработке программного обеспечения. 
@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
   <br>Технологии: JS, HTML, CSS</li>
 </ul>
 
+</h4>
