@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li><a href="https://github.com/VGTAx/Contact-List">Contact-List</a> - это веб-приложение предназначенное для хранения и управления списком контактов пользователей.
   <br>Технологии: C#, ASP.NET, JS, HTML, CSS, SQL, EF</li>
-  <li><a href="https://github.com/VGTAx/Calculator")>Caculator</a> - это простое веб-приложение, выполняющее базовые арифметические вычисления.
+  <li><a href="https://github.com/VGTAx/Calculator")>Caculator</a> - это веб-приложение, выполняющее базовые арифметические вычисления.
   <br>Технологии: JS, HTML, CSS</li>
   <li><a href="https://github.com/VGTAx/Main-page")>Main-Page</a>  - это веб-приложение, которое позволяет пользователям зарегистрироваться и авторизоваться для доступа к определенным функциям.
   <br>Технологии: JS, HTML, CSS</li>
