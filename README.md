@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 Я использую C# как основной язык программирования для разработки приложений, а SQL Server и Entity Framework для управления базами данных. Я также имею опыт работы с HTML, CSS и JS для создания веб-страниц и приложений.
 <br> <br>
 <ul>
+  <li><a href="https://github.com/VGTAx/Company")>Company</a> - это веб-приложение, которое является системой управления пользователями и отделами компании. 
+  <br>Технологии: C#, ASP.NET,JS, HTML, CSS, SQL, EF</li>
   <li><a href="https://github.com/VGTAx/Contact-List">Contact-List</a> - это веб-приложение предназначенное для хранения и управления списком контактов пользователей.
   <br>Технологии: C#, ASP.NET, JS, HTML, CSS, SQL, EF</li>
   <li><a href="https://github.com/VGTAx/Calculator")>Caculator</a> - это веб-приложение, выполняющее базовые арифметические вычисления.
