@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
   <li><a href="https://github.com/VGTAx/UserServiceAPI")>UserServiceAPI</a> - Web API для управления пользователями и их ролями. 
   <br>Технологии: C#, ASP.NET Web API, Entity Framework, SQLite</li>
   <li><a href="https://github.com/VGTAx/Company")>Company</a> - это веб-приложение, которое является системой управления пользователями и отделами компании. 
-  <br>Технологии: C#, ASP.NET,JS, HTML, CSS, SQL, EF</li>
+  <br>Технологии: C#, ASP.NET,JS, HTML, CSS, MySQL, Entity Framework</li>
   <li><a href="https://github.com/VGTAx/Contact-List">Contact-List</a> - это веб-приложение предназначенное для хранения и управления списком контактов пользователей.
-  <br>Технологии: C#, ASP.NET, JS, HTML, CSS, SQL, EF</li>
+  <br>Технологии: C#, ASP.NET, JS, HTML, CSS, SQLite, Entity Framework</li>
   <li><a href="https://github.com/VGTAx/Calculator")>Caculator</a> - это веб-приложение, выполняющее базовые арифметические вычисления.
   <br>Технологии: JS, HTML, CSS</li>
   <li><a href="https://github.com/VGTAx/Main-page")>Main-Page</a>  - это веб-приложение, которое позволяет пользователям зарегистрироваться и авторизоваться для доступа к определенным функциям.
