@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br> <br>
 <ul>
   <li><a href="https://github.com/VGTAx/UserServiceAPI")>UserServiceAPI</a> - Web API для управления пользователями и их ролями. 
-  <br>Технологии: C#, ASP.NET</li>
+  <br>Технологии: C#, ASP.NET Web API</li>
   <li><a href="https://github.com/VGTAx/Company")>Company</a> - это веб-приложение, которое является системой управления пользователями и отделами компании. 
   <br>Технологии: C#, ASP.NET,JS, HTML, CSS, SQL, EF</li>
   <li><a href="https://github.com/VGTAx/Contact-List">Contact-List</a> - это веб-приложение предназначенное для хранения и управления списком контактов пользователей.
