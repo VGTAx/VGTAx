@@ -4,7 +4,7 @@ VGTAx/VGTAx is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=1500&pause=1&color=03090C&center=true&multiline=true&repeat=false&random=false&width=1300&height=145&lines=Welcome!;+;My+name+is+Mikhail+Novikov!+This+GitHub+profile+contains+repositories;+with+various+projects+that+I+created+to+show+my+software+development+skills." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=1500&pause=1&color=36BCF7FF&center=true&multiline=true&repeat=false&random=false&width=1300&height=145&lines=Welcome!;+;My+name+is+Mikhail+Novikov!+This+GitHub+profile+contains+repositories;+with+various+projects+that+I+created+to+show+my+software+development+skills." alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="250" height="250" />
