@@ -5,14 +5,18 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1&color=298FBC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=Welcome!+My+name+is+Mikhail+Novikov!;+;My+GitHub+profile+contains+repositories+with+various+projects+that+I+created+;to+show+my+software+development+skills.+I+use+C%23+and+ASP.NET+(Web+API%2FMV%D0%A1)+;to+develop+applications%2C+SQL+and+Entity+Framework+to+work+with+databases.;+I+also+have+experience+with+HTML%2C+CSS+and+JS+and+other+tools+and+technologies." alt="Typing SVG" /></a>
 
-About me:
+### 👨‍💻 About me:
+<p>
+  <b>I'm .NET/C# Developer. I have experience with the C# language and the ASP.NET framework for developing applications and Web APIs, experience with Swagger for testing API and creating API documentation. Worked with relational databases, Entity Framework and SQL to create queries. I also have experience with HTML/CSS/JavaScript to create web pages and experience with version control system Git .</b>
+</p>
 
+### 📧 Contact:
 
-### 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="LinkedIn Badge"/>
 <div>
-  <a href="https://www.linkedin.com/in/-mikhail-novikov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/-mikhail-novikov/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
+  <a href="mailto:mikhail.noviikov@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" title="Email" alt="Email" width="40" height="40"/></a>&nbsp;
 </div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>&nbsp;
