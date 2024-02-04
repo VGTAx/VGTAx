@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 👨‍💻 About me:
 <p style="font-size: 20px">
-  <i>I'm .NET/C# Developer. I have experience with the C# language and the ASP.NET framework for developing applications and Web APIs, experience with Swagger for testing API and creating API documentation. Worked with relational databases, Entity Framework and SQL to create queries. I also have experience with HTML/CSS/JavaScript to create web pages and experience with version control system Git.</i>
+  <i>I'm .NET/C# Developer. I have experience with the <b>C#</b> language and the <b>ASP.NET</b> framework for developing applications and <b>Web APIs</b>, experience with <b>Swagger</b> for testing API and creating API documentation. Worked with relational databases, <b>Entity Framework</b> and <b>SQL</b> to create queries, as well as writing <b>Unit tests</b>. I also have experience with <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b> to create web pages and experience with version control system <b>Git</b>.</i>
 </p>
 
 ---
@@ -33,11 +33,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
   <img src="https://plugins.jetbrains.com/files/18147/403475/icon/pluginIcon.svg" title="EF_core" alt="EF_core" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="dot-net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://yesk.com.ua/wp-content/uploads/2020/05/2678858.png" title="NUnit" alt="NUnit" widht="40" height="40"/>&nbsp;
+  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;  
-  <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;    
 </div>
